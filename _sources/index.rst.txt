@@ -85,6 +85,7 @@ Also, feel free to ask your question at our `github issue <https://github.com/Ma
    troubleshooting.md
    local_model.md
    migration.md
+   test_your_rag.md
 
 .. toctree::
    :maxdepth: 1
@@ -112,6 +113,15 @@ Also, feel free to ask your question at our `github issue <https://github.com/Ma
    optimization/folder_structure.md
    optimization/custom_config.md
    optimization/strategies.md
+   optimization/sample_config.md
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Integration
+   :hidden:
+
+   integration/llm/llm.md
+   integration/vectordb/vectordb.md
 
 
 .. toctree::
